@@ -1,0 +1,24 @@
+{
+    "isEnum": true,
+    "isOverridable": true,
+    "automatedExpansion": false,
+    "name": "TimeStartTime",
+    "entries": [
+        {
+            "synonyms": [],
+            "value": "3 pm"
+        },
+        {
+            "synonyms": [],
+            "value": "2 pm"
+        },
+        {
+            "synonyms": [],
+            "value": "8 am"
+        },
+        {
+            "synonyms": [],
+            "value": "5"
+        }
+    ]
+}

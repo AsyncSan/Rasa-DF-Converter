@@ -1,0 +1,594 @@
+{
+    "results": [
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Alternative to Facebook"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How do I delete my Facebook account?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Are there any good Pandora alternatives with general availability outside the US?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Is it possible to export my data from Trello to back it up?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Is there an online alternative to iGoogle"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How can I remove myself from a Trello organization?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How do I transfer my photos from Flickr to Picasa?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How do I sync Google Calendar with my Outlook Calendar?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": "greet"
+            },
+            "text": "Archive/export all the blog entries from a RSS feed in Google Reader"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How can I delete my 160by2 account?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How can I permanently delete my Yahoo mail account?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Deleting an account(website) from Google Analytics?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How to delete my imgur account?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How to change my Uber password or delete the account?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How to delete a Sify Mail account"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How to permanently delete a 37signals ID"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How can I delete my Hunch account?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Any alternatives to Google Apps for your domain?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Evernote alternative"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": "greet"
+            },
+            "text": "Alternatives to LibraryThing"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "What are the alternatives to Facebook/Meetup for Event Planning"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Is there a free and privacy-aware alternative to Google?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "What alternatives to Google Product Search exist?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Photo Sharing Site (alternative to flickr) supporting OpenID sign in?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Any good alternative to Google Alerts?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Good wireframing apps?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Is there a HTML alternative to Prezi?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Any alternatives to Google Streetview?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Zencoder alternatives?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Alternatives to discontinued Google Calendar Appointment Slots"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Q&A Platform similar to Stack Exchange model?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Can I Share/Sync My Picasa Web Albums Automatically to My Facebook Account?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Sync not export Facebook events with Google Apps calendar"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How do I sync Facebook Twitter & Foursquare?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Google Calendar not syncing calendars that have been added by URL with Windows 10 Calendar"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Google Contact Synchronization on the iPhone 3G"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Gmail user set up through Google Apps can't change their password"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How do I change my password on ebay?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": "greet"
+            },
+            "text": "Gmail recover password while logged in Iphone"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How to retrieve forgotten Wordpress Admin password"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How to retrieve a stolen Yahoo account's password?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Users can't reset their passwords anymore on Google Apps?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Does moving a mail to the IMAP spam folder trains Gmail's spam filter?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How can I auto-delete some spam from Gmail?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "When I move spam to my inbox it goes back into the spam again"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How to send messages to spam in Gmail filter?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How do I disable the spam filter in Gmail?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How to check your Gmail spam label for good emails"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Mark large numbers of messages as \"not spam\""
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "What are alternatives to Postini for spam filtering?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How to remove spam filter for Google Apps email"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Does marking an email as spam in Gmail affect the filter for everyone?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "How can I prevent/lessen event spam on Facebook?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Do emails auto-forwarded from one Gmail account to another stop if marked as spam?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Gmail's filter for SPAM folder and/or keywords in multiple fields"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Get rid of Russian junk from my Gmail"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Embedding stop time in a YouTube video link"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": null
+            },
+            "text": "Is there a catch to PayPal's Premier account type?"
+        },
+        {
+            "project": "default",
+            "entities": [],
+            "model": "fallback",
+            "intent": {
+                "confidence": 1.0,
+                "name": "greet"
+            },
+            "text": "How can I get OkCupid search to show only matches within 5 miles of me?"
+        }
+    ]
+}

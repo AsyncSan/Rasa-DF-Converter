@@ -1,0 +1,100 @@
+{
+    "isEnum": true,
+    "isOverridable": true,
+    "automatedExpansion": false,
+    "name": "StationDest",
+    "entries": [
+        {
+            "synonyms": [],
+            "value": "odeonsplatz"
+        },
+        {
+            "synonyms": [],
+            "value": "hauptbahnhof"
+        },
+        {
+            "synonyms": [],
+            "value": "münchner freiheit"
+        },
+        {
+            "synonyms": [],
+            "value": "lehel"
+        },
+        {
+            "synonyms": [],
+            "value": "karlsplatz"
+        },
+        {
+            "synonyms": [],
+            "value": "alte heide"
+        },
+        {
+            "synonyms": [],
+            "value": "garching"
+        },
+        {
+            "synonyms": [],
+            "value": "karl-preis-platz"
+        },
+        {
+            "synonyms": [],
+            "value": "milbertshofen"
+        },
+        {
+            "synonyms": [],
+            "value": "neuperlach süd"
+        },
+        {
+            "synonyms": [],
+            "value": "moosach"
+        },
+        {
+            "synonyms": [],
+            "value": "quiddestraße"
+        },
+        {
+            "synonyms": [],
+            "value": "garching forschungszentrum"
+        },
+        {
+            "synonyms": [],
+            "value": "kurt-eisner-straße"
+        },
+        {
+            "synonyms": [],
+            "value": "boltzmannstraße"
+        },
+        {
+            "synonyms": [],
+            "value": "sendlinger tor"
+        },
+        {
+            "synonyms": [],
+            "value": "untere straussäcker"
+        },
+        {
+            "synonyms": [],
+            "value": "kieferngarten"
+        },
+        {
+            "synonyms": [],
+            "value": "frötmaning"
+        },
+        {
+            "synonyms": [],
+            "value": "perlach"
+        },
+        {
+            "synonyms": [],
+            "value": "freimann"
+        },
+        {
+            "synonyms": [],
+            "value": "marienplatz"
+        },
+        {
+            "synonyms": [],
+            "value": "studentenstadt"
+        }
+    ]
+}

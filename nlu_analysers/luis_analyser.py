@@ -38,13 +38,9 @@ class LuisAnalyser(Analyser):
   		
   		i = 0
   		for a in annotations["results"]:
-  			if not a["query"] == gold_standard[i]["text"]:
-  				print a["query"]
-  				print gold_standard[i]["text"]
-  				print "WARNING! Texts not equal"
   			 
   			#intent  			 			
-  			aIntent = a["topScoringIntent"]["intent"]
+  			aIntent = a["intent"]["name"]
   			oIntent = gold_standard[i]["intent"]
   			
   			Analyser.check_key(analysis["intents"], aIntent)

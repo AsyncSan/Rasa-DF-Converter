@@ -1,0 +1,136 @@
+{
+    "isEnum": true,
+    "isOverridable": true,
+    "automatedExpansion": false,
+    "name": "StationStart",
+    "entries": [
+        {
+            "synonyms": [],
+            "value": "quiddestraße"
+        },
+        {
+            "synonyms": [],
+            "value": "hauptbahnhof"
+        },
+        {
+            "synonyms": [],
+            "value": "garching"
+        },
+        {
+            "synonyms": [],
+            "value": "neuperlach süd"
+        },
+        {
+            "synonyms": [],
+            "value": "neuperlach zentrum"
+        },
+        {
+            "synonyms": [],
+            "value": "brudermühlstraße"
+        },
+        {
+            "synonyms": [],
+            "value": "olympiazentrum"
+        },
+        {
+            "synonyms": [],
+            "value": "harras"
+        },
+        {
+            "synonyms": [],
+            "value": "garching forschungszentrum"
+        },
+        {
+            "synonyms": [],
+            "value": "moosfeld"
+        },
+        {
+            "synonyms": [],
+            "value": "karlsplatz"
+        },
+        {
+            "synonyms": [],
+            "value": "odeonsplatz"
+        },
+        {
+            "synonyms": [],
+            "value": "kurt-eisner-straße"
+        },
+        {
+            "synonyms": [],
+            "value": "garching,forschungszentrum"
+        },
+        {
+            "synonyms": [],
+            "value": "mossach"
+        },
+        {
+            "synonyms": [],
+            "value": "michaelibad"
+        },
+        {
+            "synonyms": [],
+            "value": "sendlinger tor"
+        },
+        {
+            "synonyms": [],
+            "value": "mariahilfplatz"
+        },
+        {
+            "synonyms": [],
+            "value": "romanplatz"
+        },
+        {
+            "synonyms": [],
+            "value": "röblingweg"
+        },
+        {
+            "synonyms": [],
+            "value": "moosach"
+        },
+        {
+            "synonyms": [],
+            "value": "nordfriedhof"
+        },
+        {
+            "synonyms": [],
+            "value": "garchingto"
+        },
+        {
+            "synonyms": [],
+            "value": "marienplatz"
+        },
+        {
+            "synonyms": [],
+            "value": "untere straßäcker 21"
+        },
+        {
+            "synonyms": [],
+            "value": "untere strassäcker 21"
+        },
+        {
+            "synonyms": [],
+            "value": "untere strassaecker 21"
+        },
+        {
+            "synonyms": [],
+            "value": "untere straßaecker 21"
+        },
+        {
+            "synonyms": [],
+            "value": "straßaecker 21,garching"
+        },
+        {
+            "synonyms": [],
+            "value": "bonnerplatz"
+        },
+        {
+            "synonyms": [],
+            "value": "münchner freiheit"
+        },
+        {
+            "synonyms": [],
+            "value": "olympia einkaufszentrum"
+        }
+    ]
+}

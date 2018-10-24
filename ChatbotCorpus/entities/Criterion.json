@@ -1,0 +1,28 @@
+{
+    "isEnum": true,
+    "isOverridable": true,
+    "automatedExpansion": false,
+    "name": "Criterion",
+    "entries": [
+        {
+            "synonyms": [],
+            "value": "shortest"
+        },
+        {
+            "synonyms": [],
+            "value": "cheapest"
+        },
+        {
+            "synonyms": [],
+            "value": "fast"
+        },
+        {
+            "synonyms": [],
+            "value": "fastest"
+        },
+        {
+            "synonyms": [],
+            "value": "next"
+        }
+    ]
+}

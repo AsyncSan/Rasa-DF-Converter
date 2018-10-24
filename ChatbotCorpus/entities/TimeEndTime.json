@@ -1,0 +1,16 @@
+{
+    "isEnum": true,
+    "isOverridable": true,
+    "automatedExpansion": false,
+    "name": "TimeEndTime",
+    "entries": [
+        {
+            "synonyms": [],
+            "value": "1 pm"
+        },
+        {
+            "synonyms": [],
+            "value": "9"
+        }
+    ]
+}

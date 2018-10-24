@@ -1,0 +1,2117 @@
+{
+    "results": [
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:27.414Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Alternative to Facebook",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "fe45c2f6-ff8a-440b-8c23-a6b98d506788"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:34.729Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How do I delete my Facebook account?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e6ac116d-1b44-468e-85d1-66efe8df9168"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:35.013Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Are there any good Pandora alternatives with general availability outside the US?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "0b18dc93-db0d-420a-9cda-9db16716009c"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:35.251Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is it possible to export my data from Trello to back it up?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "f91d8c47-4a97-4aff-aac1-ebc4ed6d0d47"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:35.488Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there an online alternative to iGoogle",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "42",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "dc4c9714-a309-4c73-a16e-2130258880a5"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:35.744Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How can I remove myself from a Trello organization?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "016da9c2-2749-479e-b8c4-4b3b433b9f11"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:36Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How do I transfer my photos from Flickr to Picasa?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "42"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b8eac1ea-1121-4bfa-8255-bb276d57a2da"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:36.289Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How do I sync Google Calendar with my Outlook Calendar?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "9900b865-9f16-4c97-947d-b497d8fb29fe"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:36.605Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "syn_bezugUser": "",
+                    "syn_schlechtDrauf": "",
+                    "syn_seien": "",
+                    "syn_smileyTraurig": ""
+                },
+                "contexts": [
+                    {
+                        "name": "st_schokolade",
+                        "parameters": {
+                            "syn_bezugUser": "",
+                            "syn_bezugUser.original": "",
+                            "syn_seien.original": "",
+                            "syn_schlechtDrauf": "",
+                            "syn_seien": "",
+                            "syn_smileyTraurig": "",
+                            "syn_smileyTraurig.original": "",
+                            "syn_schlechtDrauf.original": ""
+                        },
+                        "lifespan": 2
+                    }
+                ],
+                "resolvedQuery": "Archive/export all the blog entries from a RSS feed in Google Reader",
+                "source": "agent",
+                "score": 0.5,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Nicht traurig sein!",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Nicht traurig sein!"
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "9483dfe8-41f3-47b8-be5c-a76f24379c5a",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "st.smiley.traurig",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "7db78fdd-f170-4d4d-9d7c-fd1f74cb9ac1"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:36.846Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [
+                    {
+                        "name": "st_schokolade",
+                        "parameters": {
+                            "syn_bezugUser": "",
+                            "syn_bezugUser.original": "",
+                            "syn_seien.original": "",
+                            "syn_schlechtDrauf": "",
+                            "syn_seien": "",
+                            "syn_smileyTraurig": "",
+                            "syn_smileyTraurig.original": "",
+                            "syn_schlechtDrauf.original": ""
+                        },
+                        "lifespan": 1
+                    }
+                ],
+                "resolvedQuery": "How can I delete my 160by2 account?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "37aa07dc-3345-4ff6-9d4f-aa46f0d20a6d"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:37.097Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How can I permanently delete my Yahoo mail account?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "42",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "5249e5df-25dc-40d7-8382-2de5878372be"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:37.344Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Deleting an account(website) from Google Analytics?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "42",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "d0819ec2-69ec-4c9d-a0de-953ad53f5218"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:37.592Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to delete my imgur account?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "486a2031-475a-41af-871b-6c8c734d4a7e"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:37.837Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to change my Uber password or delete the account?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "41194c3d-7402-483c-be83-c54e9045c200"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:38.141Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to delete a Sify Mail account",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "42",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "df408c94-3916-417b-b68f-03d7852fb49c"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:38.492Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to permanently delete a 37signals ID",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "a587b5ca-1416-4451-ade7-d0fc528dfb4e"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:38.806Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How can I delete my Hunch account?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "35e1d8aa-2871-4e77-ae6e-9d1b5afae8f7"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:39.048Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Any alternatives to Google Apps for your domain?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "42"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "9e450e36-f6e5-47bb-a87a-6b1af49e2b0e"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:39.286Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Evernote alternative",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "42"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "fb6d862e-83f1-4b09-a2cf-f7a5928a25af"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:39.526Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Alternatives to LibraryThing",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "210fe5ea-5625-44de-a44d-6282e341b62d"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:39.805Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "syn_bezugUser": "",
+                    "syn_Unverstaendnis": "verstehe ich nicht"
+                },
+                "contexts": [],
+                "resolvedQuery": "What are the alternatives to Facebook/Meetup for Event Planning",
+                "source": "agent",
+                "score": 0.6200000047683716,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Wozu hast du denn noch eine Frage?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Was hast du denn nicht verstanden?"
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fbad6ed0-7ea8-43df-aa3a-492cfeca7841",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "allg.unverstaendnis",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "5a7b1fac-c3da-49d6-aa22-e1dafc3956c2"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:40.08Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there a free and privacy-aware alternative to Google?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "2e915e3a-52a2-42ab-986a-1412dddce92c"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:40.307Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "syn_bezugUser": "",
+                    "syn_Unverstaendnis": "verstehe ich nicht"
+                },
+                "contexts": [],
+                "resolvedQuery": "What alternatives to Google Product Search exist?",
+                "source": "agent",
+                "score": 0.6899999976158142,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Tut mir leid, habe ich die Frage falsch verstanden? Kannst du die Frage nochmal anders formulieren bitte?",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Wozu hast du denn noch eine Frage?"
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fbad6ed0-7ea8-43df-aa3a-492cfeca7841",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "allg.unverstaendnis",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "278ee52c-7bbb-47d5-b544-eeb420d0b0c9"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:40.598Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "grup_positivesFeedback": ""
+                },
+                "contexts": [],
+                "resolvedQuery": "Photo Sharing Site (alternative to flickr) supporting OpenID sign in?",
+                "source": "agent",
+                "score": 0.4300000071525574,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": ":D",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ":D"
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "6721158b-6a1f-4c1d-bd4e-54c8555738c2",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "allg.positiv",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "8ec98790-97fb-4216-aadb-099011e4e35f"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:40.833Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Any good alternative to Google Alerts?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "71b435bb-4410-437b-a16b-c5c8dfcdbda0"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:41.064Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Good wireframing apps?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "02fd751e-90bd-4aff-b655-578810a6387e"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:41.339Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there a HTML alternative to Prezi?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "45f1655c-4d6d-4bd5-a6fc-2a20a80173a2"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:41.582Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Any alternatives to Google Streetview?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "70f03c87-24ca-4cba-a874-f7b60f87a45d"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:41.884Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Zencoder alternatives?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "42",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "814c3440-c436-4d66-9e34-6cfc58a42d3c"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:42.136Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Alternatives to discontinued Google Calendar Appointment Slots",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "42",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "0fe2b63e-2696-420d-b7a6-892506aab32f"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:42.394Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Q&A Platform similar to Stack Exchange model?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "42"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "340f7428-3976-440d-9c5a-d6a75d0a8ede"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:42.636Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Can I Share/Sync My Picasa Web Albums Automatically to My Facebook Account?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e20b90ab-4efe-4808-8f83-e9602c79ef65"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:42.885Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Sync not export Facebook events with Google Apps calendar",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "42"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "c6e7d502-1744-4bfe-8dab-9ab75fbcb2c1"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:43.154Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How do I sync Facebook Twitter & Foursquare?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "42",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "2b62c1ec-4339-45ac-a431-573e226ad4d5"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:43.425Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Google Calendar not syncing calendars that have been added by URL with Windows 10 Calendar",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "5040a589-2e7b-45db-afc8-4f7e5b22b372"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:43.668Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Google Contact Synchronization on the iPhone 3G",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "8d91b232-5e58-4bb7-9eb7-f5add5c3b8e6"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:43.917Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Gmail user set up through Google Apps can't change their password",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "78ac2317-b045-40f3-91db-38e7ead8bd42"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:44.223Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How do I change my password on ebay?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "837d5b89-2e21-448c-a286-fff7b7addf0d"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:44.469Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Gmail recover password while logged in Iphone",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "42"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "a6619a44-b910-405c-9519-1e722db7c884"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:44.718Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "grup_verzweiflung": ""
+                },
+                "contexts": [],
+                "resolvedQuery": "How to retrieve forgotten Wordpress Admin password",
+                "source": "agent",
+                "score": 0.3799999952316284,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": ":/",
+                            "type": 0
+                        }
+                    ],
+                    "speech": ":/"
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "0c45cd70-35c3-4ece-a91c-977d78ed829d",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "st.verzweiflung",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "5b080e54-9dff-45af-8d0a-fa5478c6968f"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:44.957Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to retrieve a stolen Yahoo account's password?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "42",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "12307c03-d379-4db6-9145-b08c44ce92ac"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:45.202Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Users can't reset their passwords anymore on Google Apps?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "2bc2508e-0562-4c53-b0ce-7024a48a910f"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:45.45Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Does moving a mail to the IMAP spam folder trains Gmail's spam filter?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "10f4ba91-4ae4-44f4-a610-9109ade38b3a"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:45.695Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How can I auto-delete some spam from Gmail?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "766ebdcf-f2a0-4790-9ec2-76fc09e293fd"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:45.936Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "When I move spam to my inbox it goes back into the spam again",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "42"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "9bd518e8-cac3-43ee-b423-b1011961f296"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:46.181Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to send messages to spam in Gmail filter?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "42"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "baecbeac-7aee-4588-8fb5-b3e1151258e5"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:46.431Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How do I disable the spam filter in Gmail?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "c457ae9b-fe1d-43cc-b295-182780283852"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:46.678Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to check your Gmail spam label for good emails",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "42",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "518ae2ae-706c-470d-a0cb-ad588a824763"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:46.916Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Mark large numbers of messages as \"not spam\"",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "8e10b5d9-79e8-4986-a6ce-3527a27d8d68"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:47.199Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {
+                    "syn_bezugUser": "",
+                    "syn_Unverstaendnis": "verstehe ich nicht"
+                },
+                "contexts": [],
+                "resolvedQuery": "What are alternatives to Postini for spam filtering?",
+                "source": "agent",
+                "score": 0.6899999976158142,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Tut mir leid, wenn ich dich nicht verstehe. Ich lerne immer noch dazu!",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Was hast du denn nicht verstanden?"
+                },
+                "actionIncomplete": false,
+                "action": "",
+                "metadata": {
+                    "intentId": "fbad6ed0-7ea8-43df-aa3a-492cfeca7841",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "false",
+                    "intentName": "allg.unverstaendnis",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "586ef23b-b5a3-4d23-9a28-51919fa23254"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:47.48Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How to remove spam filter for Google Apps email",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "696ff1cd-2f50-4058-b222-ba08e2b51ef9"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:47.942Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Does marking an email as spam in Gmail affect the filter for everyone?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "b5d3e8f7-b031-4433-a814-9ce2ea639631"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:48.25Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How can I prevent/lessen event spam on Facebook?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich verstehe deine Frage leider nicht, versuche es mit \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "0f4ee913-7802-49d3-91ce-ba8073f25e2d"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:48.543Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Do emails auto-forwarded from one Gmail account to another stop if marked as spam?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "42"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "a6b1d64f-2145-4b5a-8a0e-0ad87b935938"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:48.791Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Gmail's filter for SPAM folder and/or keywords in multiple fields",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "42",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "e672a9d8-6908-4e20-bf2e-bcebc73c5a23"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:49.06Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Get rid of Russian junk from my Gmail",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Kannst du das bitte nochmal anders formulieren, oder tippe \"los\"."
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "1bcc1fbc-8994-444a-b706-b69db08213b3"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:49.291Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Embedding stop time in a YouTube video link",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "42",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "3088bdf7-08c0-4a1e-963d-5268179e340c"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:49.579Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "Is there a catch to PayPal's Premier account type?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "42"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "606df8f8-38b0-4d2e-911d-87a9d569be8a"
+        },
+        {
+            "lang": "de",
+            "status": {
+                "errorType": "success",
+                "code": 200
+            },
+            "timestamp": "2018-10-23T19:41:49.865Z",
+            "sessionId": "1234",
+            "result": {
+                "parameters": {},
+                "contexts": [],
+                "resolvedQuery": "How can I get OkCupid search to show only matches within 5 miles of me?",
+                "source": "agent",
+                "score": 1.0,
+                "fulfillment": {
+                    "messages": [
+                        {
+                            "speech": "Leider kann ich nicht verstehen, was du von mir möchtest. Tippe einfach \"los\".",
+                            "type": 0
+                        }
+                    ],
+                    "speech": "Ich bin nicht so sicher, ob ich dich richtig verstanden habe. Du kannst auch \"los\" eingeben"
+                },
+                "actionIncomplete": false,
+                "action": "noMatching",
+                "metadata": {
+                    "intentId": "ab5380bf-630d-44e9-bf62-262c218db6f3",
+                    "webhookForSlotFillingUsed": "false",
+                    "isFallbackIntent": "true",
+                    "intentName": "Default Fallback Intent",
+                    "webhookUsed": "false"
+                }
+            },
+            "id": "62e4b5e2-743d-46e9-a73c-db1660a3c145"
+        }
+    ]
+}

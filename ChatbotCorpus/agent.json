@@ -1,0 +1,10 @@
+{
+    "defaultTimezone": "",
+    "mlMinConfidence": 0.2,
+    "enabledDomainFeatures": [
+        "smalltalk-domain-on",
+        "smalltalk-fulfillment-on"
+    ],
+    "language": "en",
+    "customClassifierMode": "use.after"
+}

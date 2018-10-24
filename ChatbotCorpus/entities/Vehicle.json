@@ -1,0 +1,36 @@
+{
+    "isEnum": true,
+    "isOverridable": true,
+    "automatedExpansion": false,
+    "name": "Vehicle",
+    "entries": [
+        {
+            "synonyms": [],
+            "value": "bus"
+        },
+        {
+            "synonyms": [],
+            "value": "tram"
+        },
+        {
+            "synonyms": [],
+            "value": "train"
+        },
+        {
+            "synonyms": [],
+            "value": "subway"
+        },
+        {
+            "synonyms": [],
+            "value": "s-bahn"
+        },
+        {
+            "synonyms": [],
+            "value": "u-bahn"
+        },
+        {
+            "synonyms": [],
+            "value": "rocket"
+        }
+    ]
+}
